@@ -9,14 +9,14 @@
   </url>
   
   <url>
-    <loc>http://pxy.%E6%88%91%E7%88%B1%E4%BD%A0/first/</loc>
-    <lastmod>2019-05-20T00:26:50+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://pxy.%E6%88%91%E7%88%B1%E4%BD%A0/</loc>
     <lastmod>2019-05-20T00:26:50+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pxy.%E6%88%91%E7%88%B1%E4%BD%A0/first/</loc>
+    <lastmod>2019-05-20T00:26:50+08:00</lastmod>
   </url>
   
   <url>
